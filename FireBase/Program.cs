@@ -19,7 +19,7 @@ namespace FireBaseApp
 
         static IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "nQWlAxqChLT32KhnYmUfk9Hi6OfTvKgiHtcB7Ro5",
+            AuthSecret = "",
             BasePath = "https://fir-f659e.firebaseio.com/"
         };
 
