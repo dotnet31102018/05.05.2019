@@ -11,8 +11,6 @@ namespace FireBaseApp
 {
     class Program
     {
-
-
 	// MUST DOWNLOAD FIRESHARP.JSON!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
         static IFirebaseClient firebaseClient;
